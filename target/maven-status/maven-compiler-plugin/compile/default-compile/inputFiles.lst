@@ -1,0 +1,15 @@
+/app/src/main/java/com/refactorai/test/AnalyticsService.java
+/app/src/main/java/com/refactorai/test/AuditRecord.java
+/app/src/main/java/com/refactorai/test/AuditService.java
+/app/src/main/java/com/refactorai/test/AuthenticationService.java
+/app/src/main/java/com/refactorai/test/CacheService.java
+/app/src/main/java/com/refactorai/test/ConfigurationService.java
+/app/src/main/java/com/refactorai/test/EmailService.java
+/app/src/main/java/com/refactorai/test/LoggingService.java
+/app/src/main/java/com/refactorai/test/Order.java
+/app/src/main/java/com/refactorai/test/OrderService.java
+/app/src/main/java/com/refactorai/test/Product.java
+/app/src/main/java/com/refactorai/test/ProductService.java
+/app/src/main/java/com/refactorai/test/ReportingService.java
+/app/src/main/java/com/refactorai/test/UserAccountManager.java
+/app/src/main/java/com/refactorai/test/UserService.java
